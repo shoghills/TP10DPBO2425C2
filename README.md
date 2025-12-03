@@ -1,5 +1,8 @@
 # TP10DPBO2425C2
 
+# Janji
+Saya Rifa Muhammad Danindra dengan Nim 2405981 mengerjakan tugas praktikum 10 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
+
 # 🧺 Sistem Informasi Manajemen Laundry (MVVM Architecture)
 
 Aplikasi berbasis web sederhana untuk memanajemen operasional bisnis laundry. Aplikasi ini dibangun menggunakan **PHP Native** dengan menerapkan pola desain **MVVM (Model-View-ViewModel)** untuk memisahkan logika bisnis, akses data, dan antarmuka pengguna.
